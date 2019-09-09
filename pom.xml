@@ -3,7 +3,8 @@
   <groupId>com.sundi</groupId>
   <artifactId>sundi-common</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+ 
+ 
    <build>
     <plugins>
       <plugin>
